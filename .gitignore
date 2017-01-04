@@ -1,0 +1,12 @@
+# ignore system files
+.DS_STORE
+
+ # ignore executables
+test
+
+# ignore temporary files
+**/*.swp
+**/*.swo
+
+# ignore misc.
+week1/old
